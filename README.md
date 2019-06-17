@@ -1,1 +1,1 @@
-# Week4_ML
+Increasing the number of hidden layers from 1 to 2 or 3, increased both the test and training accuracy. But, increasing them further, casued a decrease in both. This happens due to overfitting. Increasing the number of neurons in hidden layers, increased accuracy. Increasing the number of epochs increased accuracy to an extent. But having more number of epochs, decreased it, due to overfitting.
